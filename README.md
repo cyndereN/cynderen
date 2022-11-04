@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **angellovercc@gmail.com**
 
-- ⚡ Fun fact: **Life-long learner, persistent climber, football & basketball player, video maker. Film lover, ex-vocalist. Maybe a geek, definitely a gamer. Dreaming of being a Gameplay Programmer, Software Engineer, AI / XR Developer, Creative Director, and Documentary Producer.**
+- ⚡ Fun fact: **Life-long learner, persistent climber, football & basketball player, video maker. Film lover, ex-vocalist. Maybe a geek, definitely a gamer. Dreaming of being a Gameplay Programmer, AI / XR Developer, Technical Designer, Creative Director, and Documentary Producer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

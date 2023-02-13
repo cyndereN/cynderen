@@ -7,6 +7,6 @@
 
 - 📫 How to reach me: **angellovercc@gmail.com**
 
-- 🔗 Connect with me: [](https://linkedin.com/in/ce-cao)
+- 🔗 Connect with me: [linkedin](https://linkedin.com/in/ce-cao)
 
 - ⚡ Fun fact: **Life-long learner, persistent climber, football & basketball player, video maker. Film lover, ex-vocalist. Maybe a geek, definitely a gamer. Dreaming of being a Gameplay Programmer, AI / XR Developer, Technical Designer, Creative Director, and Documentary Producer.**

@@ -7,9 +7,6 @@
 
 - 📫 How to reach me: **angellovercc@gmail.com**
 
-- ⚡ Fun fact: **Life-long learner, persistent climber, football & basketball player, video maker. Film lover, ex-vocalist. Maybe a geek, definitely a gamer. Dreaming of being a Gameplay Programmer, AI / XR Developer, Technical Designer, Creative Director, and Documentary Producer.**
+- 🔗 Connect with me: [](https://linkedin.com/in/ce-cao)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ce-cao-b081291ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ce-cao-b081291ab" height="30" width="40" /></a>
-</p>
+- ⚡ Fun fact: **Life-long learner, persistent climber, football & basketball player, video maker. Film lover, ex-vocalist. Maybe a geek, definitely a gamer. Dreaming of being a Gameplay Programmer, AI / XR Developer, Technical Designer, Creative Director, and Documentary Producer.**

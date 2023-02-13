@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cynderen&label=Profile%20views&color=0e75b6&style=flat" alt="cynderen" /> </p>
 
-- 📄 Know about my experiences: **https://cynderen.github.io/**
+- 📄 Know about my experiences: **https://cynderen.github.io**
 
 - 📫 How to reach me: **angellovercc@gmail.com**
 

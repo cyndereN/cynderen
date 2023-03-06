@@ -5,7 +5,7 @@
 
 - 📄 Know about my experiences: **https://cynderen.github.io**
 
-- 📫 How to reach me: **angellovercc@gmail.com**
+- 📫 How to reach me: **cecao2000@outlook.com**
 
 - 🔗 Connect with me: **https://linkedin.com/in/ce-cao**
 

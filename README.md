@@ -9,4 +9,4 @@
 
 - 🔗 Connect with me: **https://linkedin.com/in/ce-cao**
 
-- ⚡ Fun fact: **Lifelong learner, persistent climber, football & basketball player, video maker. film lover, ex-vocal. Maybe a geek, but definitely a gamer. Dreaming of being a Gameplay Programmer, Technical Designer, Creative Director, and Documentary Producer.**
+- ⚡ Fun fact: **Lifelong learner, persistent climber, football & basketball player, video maker. film lover, ex-vocal. Maybe a geek, but definitely a gamer. Dreaming of being a Gameplay Programmer, Creative Director, and Documentary Producer.**

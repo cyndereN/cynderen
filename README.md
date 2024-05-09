@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, This is Ce</h1>
-<h3 align="center">Passionate game developer, currently pursuing a master's degree in Computer Science at UT-Austin.</h3>
+<h3 align="center">Gameplay programmer, CS @ UT-Austin & UCL.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cynderen&label=Profile%20views&color=0e75b6&style=flat" alt="cynderen" /> </p>
 

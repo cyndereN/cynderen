@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋 This is Ce (C/CC) </h1>
-<h3 align="center">Gameplay programmer, NPO Founder, CS @ UT-Austin & UCL.</h3>
+<h3 align="center">Gameplay Programmer, NPO Founder, CS @ UT-Austin & UCL.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cynderen&label=Profile%20views&color=0e75b6&style=flat" alt="cynderen" /> </p>
 
